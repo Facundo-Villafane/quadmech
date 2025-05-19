@@ -1,0 +1,63 @@
+# Archivos generados por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de VSCode
+.vscode/
+
+# Rider
+.idea/
+*.sln
+*.csproj
+*.user
+*.pidb
+*.booproj
+
+# Archivos de Unity que no deberían subirse
+sysinfo.txt
+*.stacktrace
+
+# Archivos generados por la compilación de scripts
+*.dll
+*.exe
+*.apk
+*.aab
+*.app
+*.unitypackage
+*.pdb
+*.mdb
+
+# Backup y cachés
+*.bak
+*.tmp
+*.swp
+*.lock
+
+# Archivos de colaboración (puede quitarse si usás Unity Collab)
+.collabignore
+
+# Para Android
+.gradle/
+local.properties
+
+# Para JetBrains Rider
+.idea/
+*.sln.iml
+
+# Archivos personales
+*.userprefs
+*.csproj.user
+
+# Crash Reports
+crash-reports/
+
+# Archivos de configuración local
+UserSettings/
